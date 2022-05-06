@@ -1,4 +1,4 @@
-# ProjetoIntegrador - Mercado Livre: Frescos (Requisito 06)
+# ProjetoIntegrador - Mercado Livre: Frescos RQ06
 
 Este Projeto adiciona a funcionalidade de agendamento para as entregas dos pedidos.
 
@@ -32,6 +32,11 @@ Encontra-se dentro do projeto, no diretório abaixo:
 
 ```sh
 src/main/resources/requisito-06.postman_collection.json
+```
+### Documentação com swagger
+```sh
+http://localhost:8080/api/v1/swagger-ui.html
+http://localhost:8080/api/v1/v2/api-docs
 ```
 
 ### Diagramas de Classe
