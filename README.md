@@ -1,4 +1,4 @@
-# ProjetoIntegrador - Mercado Livre: Frescos (Requisito 06)
+# ProjetoIntegrador - Mercado Livre: Frescos RQ06
 
 Este Projeto adiciona a funcionalidade de agendamento para as entregas dos pedidos.
 
@@ -9,8 +9,8 @@ O projeto principal se destina a simular uma nova modalidade de armazenamento, t
 - Spring Security e Token JWT;
 - Spring Validations;
 - Spring Data JPA;
-- Banco de Dados relacional Postgres (local);
-- Docker 
+- Banco de Dados relacional Postgres docker;
+- Docker; 
 ### Instruções para a instalação:
 
 Para iniciar o projeto será necessário executar o docker.
@@ -33,12 +33,21 @@ Encontra-se dentro do projeto, no diretório abaixo:
 ```sh
 src/main/resources/requisito-06.postman_collection.json
 ```
+### Documentação com swagger
+```sh
+http://localhost:8080/api/v1/swagger-ui.html
+http://localhost:8080/api/v1/v2/api-docs
+```
 
 ### Diagramas de Classe
 
 ![R6](https://user-images.githubusercontent.com/83099706/167030128-886b0e84-b345-493b-a321-8947df9999f4.png)
 ### Diagrama de Entidade-Relacionamento
 ![ERD](https://user-images.githubusercontent.com/83099706/167040065-661b4606-9f93-4af0-a5df-aeafc17058b0.png)
+
+### User Story RQ06
+
+https://docs.google.com/document/d/1giBSHtInZy9TMvB-cA5ZC0az73Wi7P8F/edit?usp=sharing&ouid=110043123329997133214&rtpof=true&sd=true
 
 ### Documentação, Referencial utilizados e Cronologia dos requisitos:
 
