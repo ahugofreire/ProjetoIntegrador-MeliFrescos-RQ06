@@ -45,6 +45,10 @@ http://localhost:8080/api/v1/v2/api-docs
 ### Diagrama de Entidade-Relacionamento
 ![ERD](https://user-images.githubusercontent.com/83099706/167040065-661b4606-9f93-4af0-a5df-aeafc17058b0.png)
 
+### User Story RQ06
+
+https://docs.google.com/document/d/1giBSHtInZy9TMvB-cA5ZC0az73Wi7P8F/edit?usp=sharing&ouid=110043123329997133214&rtpof=true&sd=true
+
 ### Documentação, Referencial utilizados e Cronologia dos requisitos:
 
 [Enunciado Base](https://drive.google.com/file/d/1bBOM49bxqRR7apxP3sgV7_LRiTq9xQD2/view)
