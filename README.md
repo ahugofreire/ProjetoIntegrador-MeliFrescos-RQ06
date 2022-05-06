@@ -9,8 +9,8 @@ O projeto principal se destina a simular uma nova modalidade de armazenamento, t
 - Spring Security e Token JWT;
 - Spring Validations;
 - Spring Data JPA;
-- Banco de Dados relacional Postgres (local);
-- Docker 
+- Banco de Dados relacional Postgres docker;
+- Docker; 
 ### Instruções para a instalação:
 
 Para iniciar o projeto será necessário executar o docker.
